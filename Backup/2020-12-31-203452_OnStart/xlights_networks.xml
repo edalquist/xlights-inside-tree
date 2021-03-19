@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Networks computer="edalquist-macbookpro2" GlobalFPPProxy="">
+  <Controller Id="4" Name="fpp-inside-tree" Description="" Type="Ethernet" Vendor="FPP" Model="Pi Hat" Variant="" AutoSize="1" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="1" AutoUpload="1" SuppressDuplicates="0" IP="192.168.0.145" Protocol="DDP" FPPProxy="" Priority="100" Version="1" Expanded="FALSE">
+    <network ChannelsPerPacket="1440" KeepChannelNumbers="0" ComPort="192.168.0.145" BaudRate="1" NetworkType="DDP" MaxChannels="600"/>
+  </Controller>
+</Networks>
